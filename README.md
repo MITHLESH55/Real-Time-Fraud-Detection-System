@@ -8,8 +8,7 @@ Live Demo
 
 Try the application here:
 
-https://mithlesh55-real-time-fraud-detection-system-fraud-v0xrju.streamlit.app
-
+https://real-time-financial-fraud-detection.streamlit.app
 
 Project Overview
 
@@ -225,8 +224,7 @@ Linkedin:
 https://www.linkedin.com/in/mithleshyadav977/
 
 Live Demo: 
-https://mithlesh55-real-time-fraud-detection-system-fraud-v0xrju.streamlit.app
-
+https://real-time-financial-fraud-detection.streamlit.app
 ---
 
 Research Contribution
